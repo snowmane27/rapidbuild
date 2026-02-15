@@ -1,0 +1,2 @@
+# rapidbuild
+for base guild!
